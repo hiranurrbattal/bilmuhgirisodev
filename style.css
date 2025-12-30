@@ -1,12 +1,12 @@
 body {
     font-family: 'Georgia', serif;
     font-style: italic;
-    background-color: #f4f4f4;
+    background-color: #ef89d2;
     text-align: center;
     padding: 50px;
 }
 nav {
-    background: #ed76c8;
+    background: #63555e;
     padding: 15px;
     margin-bottom: 20px;
 }
@@ -16,7 +16,7 @@ nav a {
     margin: 0 10px;
 }
 main {
-    background: rgb(208, 21, 112);
+    background: rgb(122, 238, 151);
     padding: 20px;
     border-radius: 10px;
     display: inline-block;
