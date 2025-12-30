@@ -22,6 +22,15 @@ main {
     display: inline-block;
 }
 button {
+    background-color: #db7093;
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
+    border: none;
+    border-radius: 20px; 
     cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s; 
+}
+button:hover {
+    background-color: #c71585; /* Üzerine gelince biraz koyulaşır */
 }
