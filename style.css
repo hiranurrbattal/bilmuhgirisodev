@@ -1,16 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Georgia', serif;
+    font-style: italic;
     background-color: #f4f4f4;
     text-align: center;
     padding: 50px;
 }
 nav {
-    background: #333;
+    background: #ed76c8;
     padding: 15px;
     margin-bottom: 20px;
 }
 nav a {
-    color: rgb(224, 138, 194);
+    color: rgb(246, 143, 195);
     text-decoration: none;
     margin: 0 10px;
 }
