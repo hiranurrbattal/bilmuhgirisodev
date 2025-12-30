@@ -10,12 +10,12 @@ nav {
     margin-bottom: 20px;
 }
 nav a {
-    color: white;
+    color: rgb(224, 138, 194);
     text-decoration: none;
     margin: 0 10px;
 }
 main {
-    background: white;
+    background: rgb(208, 21, 112);
     padding: 20px;
     border-radius: 10px;
     display: inline-block;
